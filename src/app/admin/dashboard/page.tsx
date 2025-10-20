@@ -155,7 +155,7 @@ export default function AdminDashboard() {
               Dashboard
             </h1>
             <p className="text-muted-foreground text-lg mt-2">
-              Welcome back! Here's an overview of your operations.
+              Welcome back! Here&apos;s an overview of your operations.
             </p>
           </div>
 
